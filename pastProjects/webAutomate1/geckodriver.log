@@ -1,0 +1,233 @@
+1587920951327	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aviral\\AppData\\Local\\Temp\\rust_mozprofileLAxEh5"
+1587920952156	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587920954182	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587920954182	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587920954183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587920954183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Parent 7064, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1587920957844	Marionette	INFO	Listening on port 49665
+1587920957993	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587920988941	Marionette	INFO	Stopped listening on port 49665
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1587921018713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aviral\\AppData\\Local\\Temp\\rust_mozprofileesuFr3"
+1587921020080	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587921021698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587921021698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587921021698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587921021698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587921024710	Marionette	INFO	Listening on port 49740
+1587921024841	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4232, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 4232, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1587921045557	Marionette	INFO	Stopped listening on port 49740
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1587921166829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aviral\\AppData\\Local\\Temp\\rust_mozprofilebCv6Ra"
+1587921167658	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587921169266	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587921169266	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587921169267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587921169267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587921172189	Marionette	INFO	Listening on port 49813
+1587921172363	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1903: TypeError: currentPanel is undefined
+[Parent 4772, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1587921373052	Marionette	INFO	Stopped listening on port 49813
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1587921378107	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aviral\\AppData\\Local\\Temp\\rust_mozprofilev39HQp"
+1587921378956	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587921380527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587921380528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587921380528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587921380528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587921383543	Marionette	INFO	Listening on port 49899
+1587921383589	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587921460306	Marionette	INFO	Stopped listening on port 49899
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1587921464214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aviral\\AppData\\Local\\Temp\\rust_mozprofileHiBp5Q"
+1587921465035	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587921466490	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587921466490	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587921466490	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587921466491	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587921469672	Marionette	INFO	Listening on port 49978
+1587921470914	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4776, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1587921560731	Marionette	INFO	Stopped listening on port 49978
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1587921632170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aviral\\AppData\\Local\\Temp\\rust_mozprofile7SXcu1"
+1587921633074	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587921634566	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587921634567	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587921634567	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587921634567	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587921638038	Marionette	INFO	Listening on port 50150
+1587921638365	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587921685818	Marionette	INFO	Stopped listening on port 50150
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1587921785343	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aviral\\AppData\\Local\\Temp\\rust_mozprofilehNJ6v6"
+1587921786234	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587921787881	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587921787881	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587921787882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587921787882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587921790653	Marionette	INFO	Listening on port 50243
+1587921790941	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5140, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1587921841208	Marionette	INFO	Stopped listening on port 50243
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1587921919102	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aviral\\AppData\\Local\\Temp\\rust_mozprofile6R6gaR"
+1587921920622	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587921922061	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587921922061	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587921922062	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587921922062	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587921925041	Marionette	INFO	Listening on port 50341
+1587921925351	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587921990128	Marionette	INFO	Stopped listening on port 50341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1587921993972	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aviral\\AppData\\Local\\Temp\\rust_mozprofilef4aCGd"
+1587921995473	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587921996944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587921996944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587921996944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587921996944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587921999991	Marionette	INFO	Listening on port 50433
+1587922000216	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587922154070	Marionette	INFO	Stopped listening on port 50433
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587922100071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587922100071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587922100071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587922100071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587922102849	Marionette	INFO	Listening on port 50519
+1587922102998	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6440, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1587922149320	Marionette	INFO	Stopped listening on port 50519
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1587922258247	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aviral\\AppData\\Local\\Temp\\rust_mozprofilekONrhg"
+1587922260013	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587922261613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587922261613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587922261613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587922261613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587922264436	Marionette	INFO	Listening on port 50635
+1587922264934	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 5880, MediaDecoderStateMachine #1] WARNING: Decoder=1311dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+1587922709913	Marionette	INFO	Stopped listening on port 50635
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1587922744693	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aviral\\AppData\\Local\\Temp\\rust_mozprofileDWkkXn"
+1587922746165	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587922747761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587922747761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587922747761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587922747762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587922750667	Marionette	INFO	Listening on port 50790
+1587922751018	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: "getSources failed. Connection may have closed: Error: Connection closed, pending request to server0.conn0.child2/thread20, type sources failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:232:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetSources@resource://devtools/shared/fronts/thread.js:198:34\nSourceMapURLService.prototype._getLoadingPromise/this._loadingPromise<@resource://devtools/client/framework/source-map-url-service.js:85:56\n"
+console.error: "Exception while getting unique selector" (new Error("Connection closed, pending request to server0.conn0.child2/domnode27, type getUniqueSelector failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:232:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_create/<@resource://devtools/client/inspector/rules/views/rule-editor.js:197:48\n_create@resource://devtools/client/inspector/rules/views/rule-editor.js:224:20\nRuleEditor@resource://devtools/client/inspector/rules/views/rule-editor.js:85:8\n_createEditors@resource://devtools/client/inspector/rules/rules.js:1208:23\n_populate/<@resource://devtools/client/inspector/rules/rules.js:991:37\n", "resource://devtools/shared/protocol/Front.js", 68))
+console.error: "Exception while opening the toolbox" "Error: Connection closed, pending request to server0.conn0.child2/frameTarget1, type reconfigure failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:232:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nreconfigure@resource://devtools/shared/fronts/targets/browsing-context.js:122:34\nopen/<@resource://devtools/client/framework/toolbox.js:906:27\npermitUnload@resource://gre/actors/BrowserElementParent.jsm:224:19\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1962:43\nCanCloseWindow@chrome://browser/content/browser.js:8000:46\nWindowIsClosing@chrome://browser/content/browser.js:8023:7\n" (new Error("Connection closed, pending request to server0.conn0.child2/frameTarget1, type reconfigure failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:232:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nreconfigure@resource://devtools/shared/fronts/targets/browsing-context.js:122:34\nopen/<@resource://devtools/client/framework/toolbox.js:906:27\npermitUnload@resource://gre/actors/BrowserElementParent.jsm:224:19\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1962:43\nCanCloseWindow@chrome://browser/content/browser.js:8000:46\nWindowIsClosing@chrome://browser/content/browser.js:8023:7\n", "resource://devtools/shared/protocol/Front.js", 68))
+destroy@resource://devtools/shared/protocol/Front.js:68:23
+_destroyTarget@resource://devtools/shared/fronts/targets/target-mixin.js:471:13
+
+console.error: (new TypeError("this.toolbox is null", "resource://devtools/client/inspector/inspector.js", 341))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 966: TypeError: win is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1587922831163	Marionette	INFO	Stopped listening on port 50790
