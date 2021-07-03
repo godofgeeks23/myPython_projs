@@ -7,7 +7,7 @@ import re
 mouse = Controller()
 
 s = socket.socket()         # Create a socket object
-host = '192.168.43.173'    #your ip address
+host = '192.168.43.32'    #your ip address
 port = 5555
 s.bind((host, port))
 

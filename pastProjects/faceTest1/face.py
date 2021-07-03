@@ -1,7 +1,7 @@
 # this detects multiple faces from a live video streamed form ipwebcam of android to the below ip address
 import cv2
 face_cascade = cv2.CascadeClassifier("haarcascade_frontalface_alt2.xml")
-cap = cv2.VideoCapture('http://192.168.43.40:8080/video')
+cap = cv2.VideoCapture(0)
 while True:
     __, img = cap.read()
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)

@@ -4,7 +4,7 @@ import bs4
 import time
 import math
 
-ip = '192.168.43.212'
+ip = '192.168.43.32'
 port = 5555
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 sock.bind((ip, port))
