@@ -1,5 +1,5 @@
+# program 1
 # import tkinter as tk
-
 # def main ():
 #     root = tk.Tk()
 #     root.title("Welcome Page Interface")
@@ -27,6 +27,7 @@
 # if __name__ == "__main__":
 #     main()
 
+# program 2
 # import tkinter as tk
 # r = tk.Tk()
 # r.title('Welcome Page')
@@ -38,6 +39,7 @@
 # button2.pack()
 # r.mainloop()
 
+# program 3
 # cursor property is used to change mouse cursor over a element. 
 # from tkinter import *
 # import tkinter
@@ -48,7 +50,7 @@
 # B2.pack()
 # top.mainloop()
 
-
+# program 4
 # from tkinter import *
  
 # def add_numbers():
@@ -74,6 +76,7 @@
  
 # mainloop()
 
+# program 5
 from tkinter import *
 from tkinter import ttk
 window = Tk()
