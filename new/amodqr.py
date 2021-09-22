@@ -1,5 +1,6 @@
 import tkinter as tk
 from tkinter import ttk
+from tkinter import filedialog
 
 def create_qr():
     import qrcode
@@ -14,21 +15,20 @@ def create_qr():
 def read_img():
     import cv2
     from pyzbar.pyzbar import decode
-    img=entry2.get()
-    img1=cv2.imread(img)
+    file_path = filedialog.askopenfilename()
+    print(file_path)
+    img1=cv2.imread(file_path)
     for code in decode(img1):
        label3.config(text = "Output: " + code.data.decode('utf-8'))
 
 def read_cam():
     import cv2
     from pyzbar.pyzbar import decode
-    # print("INformation in QR code is")
     cap=cv2.VideoCapture(0)
     i=0
     while i<1:
        _,frame=cap.read()
        for code in decode(frame):
-        #   print(code.data.decode('utf-8'))
           label4.config(text = "Output: " + code.data.decode('utf-8'))
           i=i+1
        cv2.imshow("Screen",frame)
@@ -38,12 +38,11 @@ def read_cam():
 window = tk.Tk()
 window.geometry('400x300')
 greeting = tk.Label(text="Welcome to the QR Code Program")
-label1 = tk.Label(text="Enter Text")
+label1 = tk.Label(text="Enter Text to generate code")
 entry1 = tk.Entry()
-button1 = tk.Button(text="Create QR Code", command=create_qr)
-label2 = tk.Label(text="Enter Image File name to read:")
-entry2 = tk.Entry()
-button2 = tk.Button(text="Read a QR Code Image File", command=read_img)
+button1 = tk.Button(text="Generate QR Code", command=create_qr)
+label2 = tk.Label(text="Select QR Image File to read:")
+button2 = tk.Button(text="Select Image", command=read_img)
 label3 = tk.Label(text="Output: ")
 button3 = tk.Button(text="Read QR Code from Camera", command=read_cam)
 label4 = tk.Label(text="Output: ")
@@ -54,7 +53,6 @@ button1.pack()
 separator1 = ttk.Separator(window, orient='horizontal')
 separator1.pack(fill='x')
 label2.pack()
-entry2.pack()
 button2.pack()
 label3.pack()
 separator2 = ttk.Separator(window, orient='horizontal')
