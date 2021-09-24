@@ -16,7 +16,6 @@ def read_img():
     import cv2
     from pyzbar.pyzbar import decode
     file_path = filedialog.askopenfilename()
-    print(file_path)
     img1=cv2.imread(file_path)
     for code in decode(img1):
        label3.config(text = "Output: " + code.data.decode('utf-8'))
