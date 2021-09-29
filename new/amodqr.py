@@ -30,7 +30,7 @@ def read_cam():
           i=i+1
        cv2.imshow("Screen",frame)
        cv2.waitKey(5)
-    # cv2.destroyAllWindows()
+    cv2.destroyAllWindows()
 
 window = tk.Tk()
 window.geometry('700x300')
