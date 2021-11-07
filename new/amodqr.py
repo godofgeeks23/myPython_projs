@@ -7,30 +7,34 @@ from qrcode.image.pil import PilImage
 import cv2
 from pyzbar.pyzbar import decode
 
+
 def create_qr():
-    k=entry1.get()
-    img=qrcode.make(k)
+    k = entry1.get()
+    img = qrcode.make(k)
     img.save("q.jpg")
-    p=Image.open("q.jpg")
+    p = Image.open("q.jpg")
     p.show()
+
 
 def read_img():
     file_path = filedialog.askopenfilename()
-    img1=cv2.imread(file_path)
+    img1 = cv2.imread(file_path)
     for code in decode(img1):
-       label3.config(text = "Output: " + code.data.decode('utf-8'))
+        label3.config(text="Output: " + code.data.decode('utf-8'))
+
 
 def read_cam():
-    cap=cv2.VideoCapture(0)
-    i=0
-    while i<1:
-       _,frame=cap.read()
-       for code in decode(frame):
-          label4.config(text = "Output: " + code.data.decode('utf-8'))
-          i=i+1
-       cv2.imshow("Screen",frame)
-       cv2.waitKey(5)
+    cap = cv2.VideoCapture(0)
+    i = 0
+    while i < 1:
+        _, frame = cap.read()
+        for code in decode(frame):
+            label4.config(text="Output: " + code.data.decode('utf-8'))
+            i = i+1
+        cv2.imshow("Screen", frame)
+        cv2.waitKey(2000)
     cv2.destroyAllWindows()
+
 
 window = tk.Tk()
 window.geometry('700x300')
